@@ -1,4 +1,4 @@
-# PYTHON-TO-MIPS-compiler
+# C-TO-MIPS-compiler
 
 
 This is the project that we did as a group for our Computer architecture and organization lecture given at AAIT.
